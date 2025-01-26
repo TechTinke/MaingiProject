@@ -10,7 +10,7 @@ This application calculates the day of birth and assigns the corresponding Akan 
 ---
 
 Live Demo  
-🔗 [Akan Name Generator - Live on GitHub Pages](https://your-github-username.github.io/AkanNameGenerator)
+🔗 [Akan Name Generator - Live on GitHub Pages](https://techtinke.github.io/MaingiProject/)
 
 ---
 
@@ -34,7 +34,7 @@ Before running the project, ensure you have:
 How to Run Locally
 
 1. Clone the repository  
-   git clone https://github.com/your-github-username/AkanNameGenerator.git
+   git clone https://techtinke.github.io/MaingiProject/
 2. Navigate into the project folder
    cd OscarMaingiProject
    Open index.html in your browser
