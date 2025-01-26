@@ -70,7 +70,7 @@ License
 This project is open-source under the MIT License.
 
 Copyright © 2025
-Created by [Oscar Maingi] - All rights reserved.
+Created by Oscar Maingi - All rights reserved.
 
 Contact
 Have suggestions or questions? Reach out!
